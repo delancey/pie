@@ -1,0 +1,39 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
+.colors{
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    color: white;
+    text-align: center;    
+}
+
+.red{
+    background-color: red;
+    border-top-left-radius: 180%;
+    
+}
+.yellow{
+    background-color: yellow;
+    border-top-right-radius: 180%;
+    color: blue;
+}
+.blue{
+    background-color: blue;
+    border-bottom-left-radius: 180%;
+}
+.green{
+    background-color: green;
+    border-bottom-right-radius: 180%;
+}
+
+
+p{
+    margin-top: 50%;
+}
+
+div{
+    margin-bottom: 2px;
+}
